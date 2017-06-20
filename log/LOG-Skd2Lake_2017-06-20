@@ -1,0 +1,246 @@
+2017-06-20 11:44:57;start process;event
+2017-06-20 11:45:05;21 files were found;event
+2017-06-20 11:45:18;file --> 19062017 152308 __ 19062017 152318.pick;event
+2017-06-20 11:45:30;data retrieved;success
+2017-06-20 11:48:58;start process;event
+2017-06-20 11:48:58;21 files were found;event
+2017-06-20 11:48:58;file --> 19062017 152308 __ 19062017 152318.pick;event
+2017-06-20 11:48:58;data retrieved;success
+2017-06-20 11:48:58;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;No lake path set for .test6;error
+2017-06-20 11:48:58;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;No lake path set for .test4;error
+2017-06-20 11:48:58;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;file --> 19062017 152319 __ 19062017 152329.pick;event
+2017-06-20 11:48:58;data retrieved;success
+2017-06-20 11:48:58;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;No lake path set for .test6;error
+2017-06-20 11:48:58;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;No lake path set for .test4;error
+2017-06-20 11:48:58;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;file --> 19062017 152330 __ 19062017 152340.pick;event
+2017-06-20 11:48:58;data retrieved;success
+2017-06-20 11:48:58;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;No lake path set for .test6;error
+2017-06-20 11:48:58;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:58;successfully inserted;success
+2017-06-20 11:48:58;No lake path set for .test4;error
+2017-06-20 11:48:58;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;file --> 19062017 152341 __ 19062017 152351.pick;event
+2017-06-20 11:48:59;data retrieved;success
+2017-06-20 11:48:59;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test6;error
+2017-06-20 11:48:59;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test4;error
+2017-06-20 11:48:59;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;file --> 19062017 152352 __ 19062017 152402.pick;event
+2017-06-20 11:48:59;data retrieved;success
+2017-06-20 11:48:59;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test6;error
+2017-06-20 11:48:59;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test4;error
+2017-06-20 11:48:59;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;file --> 19062017 152403 __ 19062017 152413.pick;event
+2017-06-20 11:48:59;data retrieved;success
+2017-06-20 11:48:59;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test6;error
+2017-06-20 11:48:59;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test4;error
+2017-06-20 11:48:59;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;file --> 19062017 152414 __ 19062017 152424.pick;event
+2017-06-20 11:48:59;data retrieved;success
+2017-06-20 11:48:59;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test6;error
+2017-06-20 11:48:59;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test4;error
+2017-06-20 11:48:59;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;file --> 19062017 152425 __ 19062017 152435.pick;event
+2017-06-20 11:48:59;data retrieved;success
+2017-06-20 11:48:59;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test6;error
+2017-06-20 11:48:59;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;No lake path set for .test4;error
+2017-06-20 11:48:59;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:48:59;successfully inserted;success
+2017-06-20 11:48:59;file --> 19062017 152516 __ 19062017 153613.pick;event
+2017-06-20 11:48:59;data retrieved;success
+2017-06-20 11:48:59;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test6;error
+2017-06-20 11:49:00;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test4;error
+2017-06-20 11:49:00;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;file --> 19062017 153614 __ 19062017 154710.pick;event
+2017-06-20 11:49:00;data retrieved;success
+2017-06-20 11:49:00;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test6;error
+2017-06-20 11:49:00;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test4;error
+2017-06-20 11:49:00;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;file --> 19062017 154711 __ 19062017 155807.pick;event
+2017-06-20 11:49:00;data retrieved;success
+2017-06-20 11:49:00;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test6;error
+2017-06-20 11:49:00;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test4;error
+2017-06-20 11:49:00;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;file --> 19062017 155808 __ 19062017 160903.pick;event
+2017-06-20 11:49:00;data retrieved;success
+2017-06-20 11:49:00;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test6;error
+2017-06-20 11:49:00;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:00;successfully inserted;success
+2017-06-20 11:49:00;No lake path set for .test4;error
+2017-06-20 11:49:00;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;file --> 19062017 161544 __ 19062017 162640.pick;event
+2017-06-20 11:49:01;data retrieved;success
+2017-06-20 11:49:01;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test6;error
+2017-06-20 11:49:01;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test4;error
+2017-06-20 11:49:01;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;file --> 19062017 163305 __ 19062017 163315.pick;event
+2017-06-20 11:49:01;data retrieved;success
+2017-06-20 11:49:01;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test6;error
+2017-06-20 11:49:01;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test4;error
+2017-06-20 11:49:01;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;file --> 19062017 163451 __ 19062017 163453.pick;event
+2017-06-20 11:49:01;data retrieved;success
+2017-06-20 11:49:01;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test6;error
+2017-06-20 11:49:01;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test4;error
+2017-06-20 11:49:01;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;file --> 19062017 163654 __ 19062017 163704.pick;event
+2017-06-20 11:49:01;data retrieved;success
+2017-06-20 11:49:01;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test6;error
+2017-06-20 11:49:01;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test4;error
+2017-06-20 11:49:01;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;file --> 19062017 163705 __ 19062017 163709.pick;event
+2017-06-20 11:49:01;data retrieved;success
+2017-06-20 11:49:01;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:01;successfully inserted;success
+2017-06-20 11:49:01;No lake path set for .test6;error
+2017-06-20 11:49:01;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;No lake path set for .test4;error
+2017-06-20 11:49:02;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;file --> 19062017 163713 __ 19062017 163714.pick;event
+2017-06-20 11:49:02;data retrieved;success
+2017-06-20 11:49:02;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;No lake path set for .test6;error
+2017-06-20 11:49:02;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;No lake path set for .test4;error
+2017-06-20 11:49:02;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;file --> 19062017 164235 __ 19062017 164245.pick;event
+2017-06-20 11:49:02;data retrieved;success
+2017-06-20 11:49:02;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;No lake path set for .test6;error
+2017-06-20 11:49:02;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;No lake path set for .test4;error
+2017-06-20 11:49:02;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;file --> 19062017 164246 __ 19062017 164251.pick;event
+2017-06-20 11:49:02;data retrieved;success
+2017-06-20 11:49:02;trying to insert .test3 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;No lake path set for .test6;error
+2017-06-20 11:49:02;trying to insert .test5 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;trying to insert .test1 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success
+2017-06-20 11:49:02;No lake path set for .test4;error
+2017-06-20 11:49:02;trying to insert .test2 at lake directory wintell/testdir;event
+2017-06-20 11:49:02;successfully inserted;success

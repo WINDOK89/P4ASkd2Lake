@@ -1,0 +1,467 @@
+(dp0
+S'ACTIVETAGLIST'
+p1
+(lp2
+S'.test4'
+p3
+aS'.test5'
+p4
+aS'.test6'
+p5
+aS'.test1'
+p6
+aS'.test2'
+p7
+aS'.test3'
+p8
+asS'SERVER'
+p9
+VMatrikon.OPC.Simulation.1
+p10
+sS'DELAY'
+p11
+I10000
+sS'PATH'
+p12
+VConfigured Aliases
+p13
+sS'TAGDIC'
+p14
+(dp15
+g3
+(dp16
+S'NAME'
+p17
+g3
+sS'TITLE'
+p18
+V
+p19
+sS'LAKEDIR'
+p20
+S''
+p21
+sS'UNIT'
+p22
+g19
+sS'TYPE'
+p23
+S'double-float'
+p24
+sS'PROPERTIES'
+p25
+(lp26
+(I0
+S'Item ID (virtual property)'
+p27
+g3
+tp28
+a(I1
+VItem Canonical DataType
+p29
+S'VT_EMPTY'
+p30
+tp31
+a(I2
+VItem Value
+p32
+F401.2452087402344
+tp33
+a(I3
+VItem Quality
+p34
+S'Good'
+p35
+tp36
+a(I4
+VItem Timestamp
+p37
+S'19/06/2017 09:50:28'
+p38
+tp39
+a(I5
+VItem Access Rights
+p40
+S'Read'
+p41
+tp42
+a(I6
+VServer Scan Rate
+p43
+F100.0
+tp44
+a(I7
+VItem EU Type
+p45
+I0
+tp46
+a(I8
+VItem EUInfo
+p47
+Ntp48
+a(I101
+VItem Description
+p49
+VRandom value.
+p50
+tp51
+asS'ISACTIVE'
+p52
+I01
+sS'DESCRIPTION'
+p53
+g19
+ssg4
+(dp54
+g17
+g4
+sg18
+g19
+sg20
+Vwintell/testdir
+p55
+sg22
+g19
+sg23
+g24
+sg25
+(lp56
+(I0
+g27
+g4
+tp57
+a(I1
+VItem Canonical DataType
+p58
+g30
+tp59
+a(I2
+VItem Value
+p60
+I2995
+tp61
+a(I3
+VItem Quality
+p62
+g35
+tp63
+a(I4
+VItem Timestamp
+p64
+S'19/06/2017 09:50:28'
+p65
+tp66
+a(I5
+VItem Access Rights
+p67
+g41
+tp68
+a(I6
+VServer Scan Rate
+p69
+F100.0
+tp70
+a(I7
+VItem EU Type
+p71
+I0
+tp72
+a(I8
+VItem EUInfo
+p73
+Ntp74
+a(I101
+VItem Description
+p75
+VRandom value.
+p76
+tp77
+asg52
+I01
+sg53
+g19
+ssg5
+(dp78
+g17
+g5
+sg18
+g19
+sg20
+g19
+sg22
+g19
+sg23
+g24
+sg25
+(lp79
+(I0
+g27
+g5
+tp80
+a(I1
+VItem Canonical DataType
+p81
+g30
+tp82
+a(I2
+VItem Value
+p83
+I11942
+tp84
+a(I3
+VItem Quality
+p85
+g35
+tp86
+a(I4
+VItem Timestamp
+p87
+S'19/06/2017 09:50:28'
+p88
+tp89
+a(I5
+VItem Access Rights
+p90
+g41
+tp91
+a(I6
+VServer Scan Rate
+p92
+F100.0
+tp93
+a(I7
+VItem EU Type
+p94
+I0
+tp95
+a(I8
+VItem EUInfo
+p96
+Ntp97
+a(I101
+VItem Description
+p98
+VRandom value.
+p99
+tp100
+asg52
+I01
+sg53
+g19
+ssg6
+(dp101
+g17
+g6
+sg18
+g19
+sg20
+g55
+sg22
+g19
+sg23
+g24
+sg25
+(lp102
+(I0
+g27
+g6
+tp103
+a(I1
+VItem Canonical DataType
+p104
+g30
+tp105
+a(I2
+VItem Value
+p106
+I23281
+tp107
+a(I3
+VItem Quality
+p108
+g35
+tp109
+a(I4
+VItem Timestamp
+p110
+S'19/06/2017 09:50:28'
+p111
+tp112
+a(I5
+VItem Access Rights
+p113
+g41
+tp114
+a(I6
+VServer Scan Rate
+p115
+F100.0
+tp116
+a(I7
+VItem EU Type
+p117
+I0
+tp118
+a(I8
+VItem EUInfo
+p119
+Ntp120
+a(I101
+VItem Description
+p121
+VRandom value.
+p122
+tp123
+asg52
+I01
+sg53
+g19
+ssg7
+(dp124
+g17
+g7
+sg18
+g19
+sg20
+g55
+sg22
+g19
+sg23
+g24
+sg25
+(lp125
+(I0
+g27
+g7
+tp126
+a(I1
+VItem Canonical DataType
+p127
+g30
+tp128
+a(I2
+VItem Value
+p129
+I16827
+tp130
+a(I3
+VItem Quality
+p131
+g35
+tp132
+a(I4
+VItem Timestamp
+p133
+S'19/06/2017 09:50:28'
+p134
+tp135
+a(I5
+VItem Access Rights
+p136
+g41
+tp137
+a(I6
+VServer Scan Rate
+p138
+F100.0
+tp139
+a(I7
+VItem EU Type
+p140
+I0
+tp141
+a(I8
+VItem EUInfo
+p142
+Ntp143
+a(I101
+VItem Description
+p144
+VRandom value.
+p145
+tp146
+asg52
+I01
+sg53
+g19
+ssg8
+(dp147
+g17
+g8
+sg18
+g19
+sg20
+g55
+sg22
+g19
+sg23
+g24
+sg25
+(lp148
+(I0
+g27
+g8
+tp149
+a(I1
+VItem Canonical DataType
+p150
+g30
+tp151
+a(I2
+VItem Value
+p152
+F5073.986076810001
+tp153
+a(I3
+VItem Quality
+p154
+g35
+tp155
+a(I4
+VItem Timestamp
+p156
+S'19/06/2017 09:50:28'
+p157
+tp158
+a(I5
+VItem Access Rights
+p159
+g41
+tp160
+a(I6
+VServer Scan Rate
+p161
+F100.0
+tp162
+a(I7
+VItem EU Type
+p163
+I0
+tp164
+a(I8
+VItem EUInfo
+p165
+Ntp166
+a(I101
+VItem Description
+p167
+VRandom value.
+p168
+tp169
+asg52
+I01
+sg53
+g19
+sssS'FTPDELAY'
+p170
+I30
+sS'TAGLIST'
+p171
+(lp172
+g6
+ag7
+ag8
+ag3
+ag4
+ag5
+as.
